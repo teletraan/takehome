@@ -1,6 +1,6 @@
 # Takehome
 
-Teletraan take-home projects for Graduates.
+Teletraan take-home projects.
 
 ## How to use
 
@@ -13,4 +13,4 @@ Teletraan take-home projects for Graduates.
 
 **Email**: [job.cn@teletraan.io](mailto:job.cn@teletraan.io)
 
-**HR Wechat**: 17767179603 (若您2个工作日内没有收到任何回复，烦请微信联系我们）
+**Wechat**: 17767179603 (DM us in case you get no replies after 2 business days)
