@@ -15,3 +15,4 @@ Requirements:
 - Design your own data model and API
 - Use any Python/Golang frameworks or libraries as needed
 - Should include tests and documentations
+- Dockerfile and docker-compose.yaml are preferred
